@@ -1,0 +1,13 @@
+# R 运行时文件
+.Rhistory
+.RData
+.Ruserdata
+
+# RStudio
+.Rproj.user/
+*.Rproj
+
+# 系统文件
+Thumbs.db
+desktop.ini
+.DS_Store
